@@ -10,7 +10,7 @@ module.exports = {
    */
   description: description,
 
-  // base: '/TUSL/',
+  base: '/TUSL/',
   lang: 'it-IT',
   
   /**
