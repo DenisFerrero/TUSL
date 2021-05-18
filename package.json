@@ -1,5 +1,5 @@
 {
-  "name": "GPOI - TUSL",
+  "name": "TUSL",
   "version": "0.0.1",
   "description": "Ricerca GPOI sul TUSL",
   "main": "index.js",
@@ -9,8 +9,8 @@
   },
   "repository": "DenisFerrero/TUSL",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "dev": "vuepress dev docs/.vupress/src",
+    "build": "vuepress build docs/.vuepress/src"
   },
   "license": "MIT",
   "devDependencies": {
