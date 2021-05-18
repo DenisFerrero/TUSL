@@ -9,8 +9,8 @@
   },
   "repository": "DenisFerrero/TUSL",
   "scripts": {
-    "dev": "vuepress dev docs/.vupress/src",
-    "build": "vuepress build docs/.vuepress/src"
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
