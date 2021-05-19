@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: '/images/icon.png'
 tagline: Ricerca GPOI sul TUSL
 actionText: Introduzione
 actionLink: /intro/
