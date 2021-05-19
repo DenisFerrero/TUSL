@@ -10,6 +10,9 @@ module.exports = {
    */
   description: description,
 
+  base: '/TUSL/',
+  lang: 'it-IT',
+  
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
