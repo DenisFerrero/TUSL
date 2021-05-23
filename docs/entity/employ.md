@@ -18,6 +18,17 @@ verificano e che possono arrecare dei danni non solo ai dipendenti, ma a tutti i
 
 ![Security men](/TUSL/images/security-men.jpg)
 
+## Diritti del lavoratore
+
+Tra i diritti del lavoratore troviamo :
+
+- ricevere un adeguato **controllo sanitario**;
+- **allontanarsi** dal luogo di lavoro **in caso di pericolo**;
+- ricevere **adeguata informazione e formazione** in materia di sicurezza sul lavoro;
+- non subire oneri finanziari per le misure adottate relative alla sicurezza.
+
+## Doveri del lavoratore
+
 Tra i doveri principali dei lavoratori, ricadono quelli di:
 
 - **collaborare con il datore di lavoro**, all’osservanza degli obblighi posti a tutela della salute e sicurezza sui luoghi di lavoro;
@@ -39,15 +50,6 @@ Nella realtà di tutti i giorni è improbabile che un lavoratore incorra nelle s
 segnalazioni o richiami ufficiali; salvo che dall’omissione o dalla manomissione non ne derivi un incidente o un infortunio,
 casi per i quali l’istruttoria che ne deriva automaticamente può ragionevolmente portare all’applicazione della pena prevista.
 
-## Lavoro al PC
-
-![Stress](/TUSL/images/stress.jpg)
-
-Il lavoro al computer può provocare stress e disturbi fisici come l’affaticamento visivo e problemi fisici di vario genere.
-Per prevenire tali problemi si consiglia di utilizzare apparecchiature ergonomiche, si consiglia di effettuare delle pause durante le ore di lavoro, per far riposare la vista.
-Anche l’altezza di sedia e piano di lavoro può influire sul benessere del lavoratore, come anche le condizioni del luogo di lavoro, la luminosità in questo caso e fondamentale, come anche la temperatura e l’udito, poiché con l’inquinamento acustico, si può andare incontro a stress e dolori di emicrania
-
 Fonte:
 
 - [Anfos](https://www.anfos.it/sicurezza/sanzioni-lavoratori/)
-- [Sindacato networkers](https://sindacato-networkers.it/2016/06/salute-sicurezza-informatica-rischi-lavora-online/)
