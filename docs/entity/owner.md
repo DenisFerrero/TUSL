@@ -1,4 +1,6 @@
-# Sicurezza sul lavoro dei lavoratori
+# Azienda
+
+## Sicurezza sul lavoro dei lavoratori
 
 Il D.Lgs. n. 81/2008 (Testo unico per la sicurezza), stabilisce che tutte le aziende devono somministrare a tutti i loro dipendenti un percorso di formazione riguardante la sicurezza sul lavoro. I corsi sulla sicurezza sul lavoro, che devono essere svolti durante l’orario di lavoro, sono obbligatori e il datore di lavoro ha l’onere di organizzarli e sostenerne il costo. Il corso è necessario per educare adeguatamente i lavoratori alla gestione di emergenze o incidenti.
 
