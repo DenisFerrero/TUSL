@@ -1,6 +1,6 @@
 # Smart working
 
-![Smart working](/images/smartworking.jpg)
+![Smart working](/TUSL/images/smartworking.jpg)
 
 Lo smart working rappresenta un cambiamento organizzativo notevole. Nell’ottobre del 2019, quindi\
 prima dell’emergenza legata a Covid-19, uno studio del Politecnico di Milano affermava che in Italia erano presenti circa **510 mila smart workers**. Durante le settimane di isolamento forzato, questo numero è aumentato, portando il numero degli smart workers a **ben oltre i due milioni.**
@@ -29,7 +29,7 @@ La tendenza al momento è quello di eseguire una versione ibrida di Smart workin
 
 ## Sicurezza informatica
 
-![Virus security](/images/virus-security.jpg)
+![Virus security](/TUSL/images/virus-security.jpg)
 
 La maggior parte delle aziende sta spingendo i dipendenti all’attività in smart working senza avere idea di come affrontare in modo serio la questione, mettendo a rischio i dati aziendali.
 

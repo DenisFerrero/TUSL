@@ -8,7 +8,7 @@ I corsi sulla sicurezza sono obbligatori e imprescindibili per ogni individuo al
 
 > I corsi sulla sicurezza permettono ai lavoratori di apprendere i concetti di  rischio, danno, prevenzione, forniscono conoscenze sulla legislazione e gli organi di vigilanza in materia di sicurezza e salute sul luogo di lavoro e infine i comportamenti da adottare per tutelare la propria sicurezza e salute e quella dei  propri colleghi.
 
-![Warnings](/images/warnings.png)
+![Warnings](/TUSL/images/warnings.png)
 
 ## Diritti del lavoratore
 

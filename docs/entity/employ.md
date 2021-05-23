@@ -1,6 +1,6 @@
 # Dipendente
 
-![Work safety](/images/work-safety.jpg)
+![Work safety](/TUSL/images/work-safety.jpg)
 
 ## Il lavoratore è il primo garante della sicurezza in azienda
 
@@ -16,7 +16,7 @@ il lavoratore è chiamato a garantire un costante livello di sicurezza all’int
 adoperandosi direttamente ed immediatamente per eliminare o per ridurre tutte le emergenze o i pericoli che si
 verificano e che possono arrecare dei danni non solo ai dipendenti, ma a tutti i presenti all’interno dell’azienda.
 
-![Security men](/images/security-men.jpg)
+![Security men](/TUSL/images/security-men.jpg)
 
 Tra i doveri principali dei lavoratori, ricadono quelli di:
 
@@ -41,7 +41,7 @@ casi per i quali l’istruttoria che ne deriva automaticamente può ragionevolme
 
 ## Lavoro al PC
 
-![Stress](/images/stress.jpg)
+![Stress](/TUSL/images/stress.jpg)
 
 Il lavoro al computer può provocare stress e disturbi fisici come l’affaticamento visivo e problemi fisici di vario genere.
 Per prevenire tali problemi si consiglia di utilizzare apparecchiature ergonomiche, si consiglia di effettuare delle pause durante le ore di lavoro, per far riposare la vista.
