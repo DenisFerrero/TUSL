@@ -32,11 +32,13 @@ module.exports = {
    */
   themeConfig: {
     repo: repository,
+    repoLabel: 'Contribute!',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
     nav: [],
+    smoothScrolling: true,
     sidebar: [
       {
         title: 'Introduzione',   
