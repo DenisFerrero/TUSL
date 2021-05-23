@@ -31,7 +31,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: repository,
     editLinks: false,
     docsDir: '',
     editLinkText: '',
