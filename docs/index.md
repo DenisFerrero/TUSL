@@ -11,5 +11,5 @@ features:
   details: Responsabilità dell'azienda e del lavoratore
 - title: Informatica
   details: Nello specifico dell'ambito informatica
-footer: Realizzato dal gruppo 5 - 5AI anno scolastico 2020/2021 - Istituto Olivetti di Ivrea
+footer: Realizzato da Collura Sam, Ferrero Denis, Mantovani Samuele, Mazzarella Matteo, Tua Andrea - 5AI anno scolastico 2020/2021 - Istituto Olivetti di Ivrea
 ---

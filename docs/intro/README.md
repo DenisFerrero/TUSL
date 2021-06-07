@@ -1,5 +1,7 @@
 # Introduzione
 
+![TUSL](/TUSL/images/TUSL.jpg)
+
 Il **testo unico**  in materia di salute e sicurezza nei luoghi di lavoro, *D.Lgs. 81/2008* della legge italiana, disciplina il tema della sicurezza sul lavoro (noto anche con l'acronimo *TUSL*) ed è un complesso di norme della Repubblica Italiana, in materia di salute e sicurezza sul lavoro, emanate con il decreto legislativo n. 81 il 9 aprile 2008.
 Tale decreto legislativo è stato emanato in conformità all'art. 117 della Costituzione Italiana che al comma 3, definisce la tutela e sicurezza del lavoro fra le materie di legislazione concorrente con le Regioni; quindi la potestà legislativa in questa materia spetterebbe alle Regioni, salvo per quanto riguarda la determinazione dei principi fondamentali, riservata sempre alla legislazione dello Stato.
 Il testo unico è formato da 13 titoli suddivisi in 306 articoli in cui sono elencate le misure generali di tutela del sistema di sicurezza aziendale, che vengono poi integrate dalle misure di sicurezza previste per specifici rischi o settori di attività come per esempio gli agenti fisici, biologici e cancerogeni, etc.).
